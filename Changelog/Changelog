@@ -1,0 +1,12 @@
+Changelog
+
+
+June 29, 2017
+
+  Changed background to a brownish red color
+  Changed selected to a washed out white color
+  Increased width to 30
+  Changed position to 0 instead of 1
+  Added a 3 line limit
+  Hid Scroll Bar
+  
