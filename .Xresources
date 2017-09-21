@@ -1,0 +1,14 @@
+
+#rofi
+rofi*color-window: #352028, #352028, #cfdfcf
+rofi*color-normal: #352028, #cfdfcf, #352028, #405045, #cfdfcf
+rofi*font: misc fixed 10
+rofi*bw: 0
+rofi*width: 30
+rofi*hide-scrollbar: true
+rofi*lines: 3
+rofi*location: 0
+rofi*yoffset: 80
+rofi*padding: 20
+rofi*separator-style: "dash"
+
