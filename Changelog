@@ -1,0 +1,44 @@
+ChangeLog
+
+
+June 23,2017
+
+  Added i3lock keybind ($mod+shift+x)
+  Added background to desktop with feh
+  Added Workspace Names 
+  Added Workspace variables to easily customize
+  
+June 29, 2017
+
+  Replaced dmenu with rofi
+  Added Sections for Media Keys
+  Added Section for Volume Controls
+  Added Section for Brightness Controls
+  
+July 16, 2017
+    
+  Added spotify and discord
+  Added light to contorl brightness (alt)
+  Changed font to DejaVu Sans Mono
+
+July 17, 2017
+
+  Removed borders from all windows
+  
+July 19, 2017
+
+  Added i3lock background (terok_nor.png)
+  Added Polybar as primary status bar
+  Added Script to load polybar
+  Changed termianl Emulator to Terminator
+  
+  
+September 10,2017
+***Got new aptop(t520)***
+
+  Removed light app
+  Removed Polybar (for now)
+  Added "Fn" keys light controls
+  Added i3bar(for now)
+  Added YakYak to workspace4
+  Changed workspace4 to "Voip/Hangouts
